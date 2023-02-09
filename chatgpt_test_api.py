@@ -1,7 +1,6 @@
 import openai
 
 
-API_KEY = "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"
 openai.api_key = API_KEY
 prompt = "Name some travel technology companies."
 response = openai.Completion.create(

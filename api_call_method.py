@@ -2,7 +2,7 @@ import requests
 import json
 
 endpoint = "https://api.openai.com/v1/completions"
-API_KEY = "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"
+
 
 query = "Name some travel technology companies."
 
