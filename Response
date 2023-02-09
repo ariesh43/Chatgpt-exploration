@@ -1,0 +1,19 @@
+{
+   "id": "cmpl-6i3gogmHjdjjBnTN4A4DQX6BCL60a",
+   "object": "text_completion",
+   "created": 1675958634,
+   "model": "text-davinci-003",
+   "choices": [
+      {
+         "text": "\n\n1. Amadeus\n2. Sabre\n3. Travelport\n4. TripActions\n5. Expedia Group\n6. TripAdvisor\n7. TravelPerk\n8. Hopper\n9. Skyscanner\n10. Fareportal",
+         "index": 0,
+         "logprobs": null,
+         "finish_reason": "stop"
+      }
+   ],
+   "usage": {
+      "prompt_tokens": 6,
+      "completion_tokens": 59,
+      "total_tokens": 65
+   }
+}
